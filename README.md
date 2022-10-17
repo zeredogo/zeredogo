@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paul Dogo @zeredogo
-- 👀 I’m interested in BlockChain Development.
+- 👀 I’m interested in BlockChain Development and React.                                                               
 - 🌱 I’m currently working with Solidity smart Contract, JavaScript, React.js, Node.js, python and Teal smart contract.
 - 💞️ I’m passionate, curious, and desire to make a meaningful contribution to the world and growth the Blockchain cummunity around the World.
 - 📫 How to reach me.. on Twitter @https://twitter.com/paulsundaydogo @https://twitter.com/dogoempire1 
